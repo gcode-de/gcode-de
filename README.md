@@ -2,26 +2,26 @@
 
 <img src="https://github.com/gcode-de/gcode-de/blob/e8502e1dac2017a0356e38fb0cf1db8fb3db1b3a/Portra%CC%88t%20Samuel%20Gesang_medium.jpg" alt="Samuel Gesang" width="360"/>
 
-Hallo, ich bin Samuel 👋!  
-Als _aufstrebender Webentwickler_ erweitere ich derzeit meine Kenntnisse im "[Neue Fische](https://neuefische.de)" Bootcamp,  
-wo ich mich mit zukunftsweisenden Technologien auseinandersetze.
+Hello, I'm Samuel 👋!  
+As an _aspiring web developer_, I'm currently expanding my skills at the "[Neue Fische](https://neuefische.de)" Bootcamp,  
+where I'm engaging with cutting-edge technologies.
 
 
-## Was ich aktuell lerne
-- **JavaScript**: Dynamische Interaktionen und moderne Web-Features.
-- **Git/GitHub**: Versionskontrolle und kollaborative Entwicklung.
-- **React**: Benutzerfreundliche Interfaces mit modernen Frontend-Techniken.
-- **Next.js**: Serverseitiges Rendering und statische Seitengenerierung für React.
-- **Node.js**: Skalierbare Backend-Lösungen.
-- **REST**: API-Design und Integration.
-- **MongoDB**: NoSQL-Datenbankmanagement.
+## What I'm Currently Learning
+- **JavaScript**: Dynamic interactions and modern web features.
+- **Git/GitHub**: Version control and collaborative development.
+- **React**: User-friendly interfaces with modern frontend techniques.
+- **Next.js**: Server-side rendering and static site generation for React.
+- **Node.js**: Scalable backend solutions.
+- **REST**: API design and integration.
+- **MongoDB**: NoSQL database management.
 
-## Über mich
-- 🚀 Lernbegeistert, immer bereit für neue Herausforderungen.
-- 🎨 Fasziniert von der Verbindung aus Technik & Kreativität.
-- 💼 Designaffin mit einer Leidenschaft für Code.
+## About Me
+- 🚀 Eager to learn, always ready for new challenges.
+- 🎨 Fascinated by the intersection of technology & creativity.
+- 💼 Design-savvy with a passion for code.
 
-## Kontakt
+## Contact
 - 🌐 [samuelgesang.de](https://samuelgesang.de)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/samuel-gesang/)
-- 📧 [E-Mail](mailto:sgesang@mailo.com)
+- 📧 [Email](mailto:sgesang@mailo.com)
