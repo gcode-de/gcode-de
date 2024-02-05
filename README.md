@@ -14,7 +14,7 @@ where I'm engaging with cutting-edge technologies.
 - **REST**: API design and integration.
 - **MongoDB**: NoSQL database management.
 
-[<img src="https://skillicons.dev/icons?i=html" title="html" />](#) [![CSS](https://skillicons.dev/icons?i=css)](#) [![Java Script](https://skillicons.dev/icons?i=js)](#) [![Type Script](https://skillicons.dev/icons?i=ts)](#) [![React](https://skillicons.dev/icons?i=react)](#) [![Next JS](https://skillicons.dev/icons?i=nextjs)](#) [![Java](https://skillicons.dev/icons?i=java)](#) [![Spring](https://skillicons.dev/icons?i=spring)](#) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](#) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](#)
+[<img src="https://skillicons.dev/icons?i=html" title="html" />](#) [<img src="https://skillicons.dev/icons?i=css" title="css" />](#) [<img src="https://skillicons.dev/icons?i=js" title="Java Script" />](#) [<img src="https://skillicons.dev/icons?i=ts" title="Type Script" />](#) [<img src="https://skillicons.dev/icons?i=react" title="React" />](#) [<img src="https://skillicons.dev/icons?i=nextjs" title="NextJS" />](#) [<img src="https://skillicons.dev/icons?i=java" title="Java" />](#) [<img src="https://skillicons.dev/icons?i=spring" title="Spring" />](#) [<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />](#) [<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" />](#)
 
 
 
