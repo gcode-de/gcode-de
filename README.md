@@ -16,6 +16,8 @@ where I'm engaging with cutting-edge technologies.
 
 [![HTML](https://skillicons.dev/icons?i=html)](#) [![CSS](https://skillicons.dev/icons?i=css)](#) [![Java Script](https://skillicons.dev/icons?i=js)](#) [![Type Script](https://skillicons.dev/icons?i=ts)](#) [![React](https://skillicons.dev/icons?i=react)](#) [![Next JS](https://skillicons.dev/icons?i=nextjs)](#) [![Java](https://skillicons.dev/icons?i=java)](#) [![Spring](https://skillicons.dev/icons?i=spring)](#) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](#) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](#)
 
+<img src="https://skillicons.dev/icons?i=html" title="html" />
+
 
 
 ## About Me
