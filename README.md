@@ -14,6 +14,8 @@ where I'm engaging with cutting-edge technologies.
 - **REST**: API design and integration.
 - **MongoDB**: NoSQL database management.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## About Me
 - 🚀 Eager to learn, always ready for new challenges.
 - 🎨 Fascinated by the intersection of technology & creativity.
