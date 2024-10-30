@@ -1,14 +1,14 @@
 # Samuel Gesang
 
 Hello, I'm Samuel 👋!  
-As an _aspiring web developer_, I'm currently expanding my skills at the "[Neue Fische](https://neuefische.de)" Bootcamp,  
-where I'm engaging with cutting-edge technologies.
+As an _software engineer_, I'm currently working for [Aptis GmbH](https://aptis.info),
+where I am creating new features for our Jira plugin [Epic Sum Up](https://epicsumup.com)
 
-## What I'm Currently Learning
-- **Java**: Robust and versatile programming.
-- **Spring Boot**: Building microservices and RESTful APIs.
+## What I'm Currently Using
+- **React**: Frontend framework
 - **TypeScript**: Typed superset of JavaScript for scalable applications.
-- **Docker**: Containerization and orchestration for development and production.
+- **Serverless Functions**: Jira Forge and ACE
+- **Java**: Backend funtionality for Jira Data Center
 
 ## Tech Stack
 [<img src="https://skillicons.dev/icons?i=html" title="html" />](#) 
