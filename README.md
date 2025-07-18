@@ -3,6 +3,7 @@
 Hello, I'm Samuel 👋!  
 As an _software engineer_, I'm currently working for [Aptis GmbH](https://aptis.info),
 where I am creating new features for our Jira plugin [Epic Sum Up](https://epicsumup.com)
+On github you only see private projects as Aptis is using [_gitlab_](https://gitlab.com/s.gesang).
 
 ## What I'm Currently Using
 - **React**: Frontend framework
