@@ -1,15 +1,14 @@
 # Samuel Gesang
 
 Hello, I'm Samuel 👋!  
-As an _software engineer_, I'm currently working for [Aptis GmbH](https://aptis.info),
-where I am creating new features for our Jira plugin [Epic Sum Up](https://epicsumup.com)
-On github you only see private projects as Aptis is using [_gitlab_](https://gitlab.com/s.gesang).
+As a _full stack engineer_, I'm currently working for [Anacision GmbH](https://anacision.de),
+where we develop tailored AI and machine learning solutions to help government agencies and public institutions digitalize their processes, relieve administrative workload, and make better, more transparent decisions.
 
-## What I'm Currently Using
-- **React**: Frontend framework
-- **TypeScript**: Typed superset of JavaScript for scalable applications.
-- **Serverless Functions**: Jira Forge and ACE
-- **Java**: Backend funtionality for Jira Data Center
+## What I'm Currently Using:
+- **React / TypeScript / shadcn**: Frontend
+- **Python / FastAPI**: Backend
+- **GitHub Actions / Docker / Kubernetes**: CI/CD
+- **Proxmox / K3S / ArgoCD / Portainer**: Homelab (learning)
 
 ## Tech Stack
 [<img src="https://skillicons.dev/icons?i=react" title="React" />](#)
@@ -18,7 +17,7 @@ On github you only see private projects as Aptis is using [_gitlab_](https://git
 [<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />](#) 
 [<img src="https://skillicons.dev/icons?i=py" title="Python" />](#)
 [<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />](#)
-[<img src="https://skillicons.dev/icons?i=github" title="Github" />](#) 
+[<img src="https://skillicons.dev/icons?i=github" title="GitHub" />](#) 
 [<img src="https://skillicons.dev/icons?i=java" title="Java" />](#) 
 [<img src="https://skillicons.dev/icons?i=spring" title="Spring" />](#) 
 [<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />](#)
