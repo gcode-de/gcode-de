@@ -33,9 +33,9 @@ where we develop tailored AI and machine learning solutions to help government a
 [<img src="https://skillicons.dev/icons?i=css" title="css" />](#) 
 
 ## About Me
-- 🚀 Eager to learn, always ready for new challenges.
-- 🎨 Fascinated by the intersection of technology & creativity.
-- 💼 Design-savvy with a passion for good code.
+- 🤖 Self hosting enthusiast
+- ⚙️ Optomizing processes and finding elegant solutions
+- 💼 Background in business and marketing
 
 ## Contact
 - 🔗 [LinkedIn](https://www.linkedin.com/in/samuel-gesang/)
