@@ -4,13 +4,13 @@ Hello, I'm Samuel 👋!
 As a _full stack engineer_, I'm currently working for [Anacision GmbH](https://anacision.de),
 where we develop tailored AI and machine learning solutions to help government agencies and public institutions digitalize their processes, relieve administrative workload, and make better, more transparent decisions.
 
-## What I'm Currently Using:
+## Current Tech Stack
 - **React / TypeScript / shadcn**: Frontend
 - **Python / FastAPI**: Backend
 - **GitHub Actions / Docker / Kubernetes**: CI/CD
 - **Proxmox / K3S / ArgoCD / Portainer**: Homelab (learning)
 
-## Tech Stack
+## Tools
 [<img src="https://skillicons.dev/icons?i=react" title="React" />](#)
 [<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />](#) 
 [<img src="https://skillicons.dev/icons?i=js" title="JavaScript" />](#) 
