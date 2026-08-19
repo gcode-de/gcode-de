@@ -1,8 +1,7 @@
 # Samuel Gesang
 
 Hello, I'm Samuel 👋!  
-As a _full stack engineer_, I'm currently working for [Anacision GmbH](https://anacision.de),
-where we develop tailored AI and machine learning solutions to help government agencies and public institutions digitalize their processes, relieve administrative workload, and make better, more transparent decisions.
+Full-Stack Developer focused on React and TypeScript. Experience with FastAPI/Python, Java/Spring Boot, CI/CD and self-hosted Kubernetes. I build product-oriented web applications and data-driven tools.
 
 ## Current Tech Stack
 - **React / TypeScript / shadcn**: Frontend
