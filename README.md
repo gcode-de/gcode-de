@@ -4,10 +4,10 @@ Hello, I'm Samuel 👋!
 Full-Stack Developer focused on React and TypeScript. Experience with FastAPI/Python, Java/Spring Boot, CI/CD and self-hosted Kubernetes. I build product-oriented web applications and data-driven tools.
 
 ## Current Tech Stack
-- **React / TypeScript / shadcn**: Frontend
-- **Python / FastAPI**: Backend
-- **GitHub Actions / Docker / Kubernetes**: CI/CD
-- **Proxmox / K3S / ArgoCD / Portainer**: Homelab (learning)
+- Frontend: **React / TypeScript / shadcn**
+- Backend **Java / Spring Boot / Python / FastAPI**
+- CI/CD: **GitHub Actions / Docker / Kubernetes**
+- Homelab (learning): **Proxmox / K3S / ArgoCD / Portainer**
 
 ## Tools
 [<img src="https://skillicons.dev/icons?i=react" title="React" />](#)
